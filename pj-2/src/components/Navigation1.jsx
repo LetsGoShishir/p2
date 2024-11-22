@@ -8,6 +8,9 @@ const Navigation = () => {
       </div>
 
      
+     <ul>
+        <li>okok</li>
+     </ul>
     </nav>
   );
 };
