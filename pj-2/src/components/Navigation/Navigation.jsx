@@ -7,10 +7,11 @@ const Navigation = () => {
         <img src="/images/logo.png" alt="do some coding logo" />
       </div>
 
-     
-     <ul>
-        <li>okok</li>
-     </ul>
+      <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Contact</li>
+      </ul>
     </nav>
   );
 };
